@@ -1,0 +1,19 @@
+/*
+Theme Name: Boltix
+Theme URI: https://boltix.com/themes/default
+Author: Arafat Hossain
+Author URI: https://boltix.com
+Description: The official default theme for the Boltix platform. Built specifically for high-performance web portals, media aggregator networks, and multi-category search engines. Features an integrated dual-article management workflow (supporting native long-form publishing alongside outbound link redirection for curated content), dynamic search result layouts with multi-tab media filtering, automated Wikipedia entity Knowledge Panel integration, customizable category icon structures, and an admin-configurable widgetized portal layout.
+Version: 1.0.0
+Requires at least: 1.0.0
+Tested up to: 1.0.0
+License: Proprietary / Enterprise
+License URI: https://boltix.com/license
+Tags: portal, search-engine, news-aggregator, media-feed, category-icons, knowledge-panel, dual-article-system, adminlte-compatible, user-accounts, responsive-layout, classic-web-portal, customized-navigation
+*/
+
+/* 
+ * NOTE: This file is intentionally used strictly for Theme Metadata & Header Identification.
+ * All active stylesheet rules, custom components, responsive grids, and primary color 
+ * variables are located in content/themes/default/css/main.css
+ */
